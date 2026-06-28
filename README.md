@@ -1,6 +1,6 @@
 # Docker Containerization Journey
 
-A structured, hands-on walkthrough of Docker — from fundamentals to a fully
+A structured, hands-on walkthrough of Docker - from fundamentals to a fully
 automated CI/CD pipeline that builds, tests, pushes, and deploys a
 containerized app to a live EC2 instance.
 
@@ -11,8 +11,8 @@ review on its own, rather than buried inside a single pipeline project.
 
 Most of my Docker usage lives inside CI/CD pipelines, where Docker is just
 one step among many. This repo isolates and demonstrates the underlying
-Docker fundamentals on their own — containers, images, volumes, networking,
-and Compose — before tying everything together in a real deployment project.
+Docker fundamentals on their own - containers, images, volumes, networking,
+and Compose - before tying everything together in a real deployment project.
 
 ## Modules
 
@@ -38,5 +38,5 @@ and Compose — before tying everything together in a real deployment project.
 
 ## Related projects
 
-- [`payeasy-cicd-project`](https://github.com/negiabhay/payeasy-cicd-project) — CI/CD pipeline with matrix testing, artifacts, and EC2 deployment via appleboy SSH action
-- [`bash-scripting-for-devops`](https://github.com/negiabhay/bash-scripting-for-devops) — AWS CLI scripting practice
+- [`payeasy-cicd-project`](https://github.com/negiabhay/payeasy-cicd-project) - CI/CD pipeline with matrix testing, artifacts, and EC2 deployment via appleboy SSH action
+- [`bash-scripting-for-devops`](https://github.com/negiabhay/bash-scripting-for-devops) - AWS CLI scripting practice
